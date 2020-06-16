@@ -1,3 +1,4 @@
 #create new Azure resources Group
+#Create azure resource group using Azure CLI
 az group create --location <Subscription Location> --resource-group <Name> --managed-by "<Name>" --tag <Optional>
 #delete group
