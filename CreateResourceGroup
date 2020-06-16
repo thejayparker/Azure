@@ -1,0 +1,2 @@
+#create new Azure resources Group
+az group create --location <Subscription Location> --resource-group <Name> --managed-by "<Name>" --tag <Optional>
